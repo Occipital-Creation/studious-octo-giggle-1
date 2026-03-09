@@ -6,7 +6,7 @@ name: Node.js Package
 on:
   release:
     types: [created]
-
+[![.github/workflows/npm-publish.yml](https://github.com/Occipital-Creation/studious-octo-giggle-1/actions/workflows/npm-publish.yml/badge.svg?event=check_run)](https://github.com/Occipital-Creation/studious-octo-giggle-1/actions/workflows/npm-publish.yml)
 jobs:
   build:
     runs-on: ubuntu-latest
